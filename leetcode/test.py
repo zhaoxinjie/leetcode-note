@@ -7,5 +7,3 @@
 @Software: PyCharm
 @Description:
 """
-
-print("test")
