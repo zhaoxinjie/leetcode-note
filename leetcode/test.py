@@ -7,3 +7,4 @@
 @Software: PyCharm
 @Description:
 """
+print(max([1,2,3]))
